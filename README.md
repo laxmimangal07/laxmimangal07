@@ -28,9 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmimangal07&show_icons=true&locale=en" alt="laxmimangal07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmimangal07&" alt="laxmimangal07" /></p>
-### 👩‍💼 About Me
-Hi! I’m passionate about coding, learning new technologies, and building projects.
 
-### 🤝 Open to Collaborations
-I’m open to **project collaborations**, beginner-friendly coding challenges, and learning together with other developers. Let’s create something amazing! 🚀
+### 👩‍💼 About Me 🤝 Open to Collaborations
+🎤 Hi! I’m passionate about coding, learning new technologies, and building projects.
+🤝 I’m open to **project collaborations**, beginner-friendly coding challenges, and learning together with other developers. Let’s create something amazing! 🚀
 
