@@ -30,6 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmimangal07&" alt="laxmimangal07" /></p>
 
 ### 👩‍💼 About Me 🤝 Open to Collaborations
-🎤 Hi! I’m passionate about coding, learning new technologies, and building projects.
+🎤 Hi! I’m passionate about coding, learning new technologies, and building projects.<br>
 🤝 I’m open to **project collaborations**, beginner-friendly coding challenges, and learning together with other developers. Let’s create something amazing! 🚀
 
