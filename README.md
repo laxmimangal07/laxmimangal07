@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **BSc Computer Science**
 
-- 🌱 I’m currently learning **I’m currently learning version control, problem solving, backend basics, and exploring new technologies.**
+- 🌱 I’m currently learning **version control, problem solving, backend basics, and exploring new technologies.**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
